@@ -1,8 +1,8 @@
 def addition(num1, num2)
-  def stylish_chef
-  best_hairstyle = "Guy Fieri"
-  return "Martha Stewart"
-  "Guy Fieri"
+  num1 = 5
+  num2 = 4
+  addition = ("num1" :+ "num2")
+  puts "#{addition}"
 end
 
 end
