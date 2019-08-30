@@ -1,8 +1,8 @@
 def addition(num1, num2)
-  puts "#{num1}"
-  puts "#{num2}"
-  addition = num1 + num2
-  return "#{addition}"
+  num1 = 5
+  num2 = 4
+  addition = ("num1" :+ "num2")
+  puts "#{addition}"
 
 end
 
