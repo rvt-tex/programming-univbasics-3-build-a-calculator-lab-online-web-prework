@@ -15,14 +15,17 @@ def subtraction(num1, num2)
 end
 
 def division(num1, num2)
-num1 = 50
+  num1 = 50
   num2 = 2
   division = ("num1" :/ "num2")
   puts "#{division}"
 end
 
 def multiplication(num1, num2)
-
+  num1 = 4
+  num2 = 30
+  multiplication = ("num1" :* "num2")
+  puts "#{multiplication}"
 end
 
 def modulo(num1, num2)
